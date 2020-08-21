@@ -1,0 +1,8 @@
+.whole {
+  width: 90vw;
+  height: 100vh;
+  background: linear-gradient(to right, #6d6027, #d3cbb8);
+}
+.btns {
+  width: 20%;
+}

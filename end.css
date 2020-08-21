@@ -1,0 +1,17 @@
+.whole {
+  width: 90vw;
+  height: 100vh;
+  background: linear-gradient(to right, #6d6027, #d3cbb8);
+}
+.onesec {
+  width: 100%;
+}
+.sb {
+  margin-left: 34%;
+}
+.pb {
+  margin-left: 25%;
+}
+.hb {
+  margin-left: 28%;
+}

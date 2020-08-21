@@ -1,0 +1,31 @@
+.whole {
+  width: 90vw;
+  height: 100vh;
+  background: black;
+}
+.info_row {
+  min-height: 15vh;
+  width: 100%;
+}
+.qna {
+  min-height: 60vh;
+  width: 100%;
+}
+.btns {
+  height: 12vh;
+  background: #f1faee;
+}
+.option_labels {
+  height: 100%;
+  width: 7%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.option_data {
+  height: 100%;
+  width: 93%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
